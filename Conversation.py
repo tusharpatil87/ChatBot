@@ -1,0 +1,26 @@
+conv = [
+    "Hello",
+    "Hi there!",
+    "How are you doing?",
+    "I'm doing great.",
+    "That is good to hear",
+    "Thank you.",
+    "Good day",
+    "Good day",
+    "Bye",
+    "Have a nice day",
+    "thanks",
+    "Thank you",
+    "Thanks for helping me",
+    "My pleasure",
+    "",
+    "Sorry, can't understand you",
+    " ",
+    "Please give me more info",
+    "contact details",
+    "www.xyx.abc",
+    "contact number",
+    "+1 00000000",
+
+
+]
